@@ -18,6 +18,9 @@ acestream://ad7973215880d12940a75699aa7044839a13a6f1
 #EXTINF:-1, tvg-id="DAZN 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png",DAZN 2 4K
 acestream://b402c07f2e8bfe253815e08df0b7e0a6b0fad8e3
 
+#EXTINF:-1, tvg-id="DAZN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png",DAZN 2 HD
+acestream://3a8169a6b3db2e515af9b213e8b0a384e91987d7
+
 #EXTINF:-1, tvg-id="CAMPEONES 4K" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-liga-campeones.jpg",CAMPEONES 4K
 acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76
 
