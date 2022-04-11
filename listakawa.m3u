@@ -32,3 +32,7 @@ acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 
 #EXTINF:-1, tvg-id="VAMOS HD" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2018/08/Captura.jpg",VAMOS HD
 acestream://0fdcd632dc776bc44ab2f474a6d079820d80132f
+
+#EXTINF:-1, tvg-id="SPORT TV 1 4k" tvg-logo="https://www.mxgp.com/sites/default/files/news/image/SportTv_Institucional-05.png",SPORT TV 1 4k
+acestream://304f4331286501c5a373a71391b8225900ff7849
+
