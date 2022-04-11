@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="DAZN F1" tvg-logo="https://satcesc.com/wp-content/uploads/2020/01/DAZN-F1.jpg",DAZN F1 4K 
-acestream://c372020ed2744033f56548b6beb11a9f3e740f37
-
 #EXTINF:-1, tvg-id="M+LIGA 4K" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg",M+LIGA 4K 
 acestream://6904a8e397fe51013aa974f6d1293d8a889836e6
 
@@ -11,6 +8,9 @@ acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
 
 #EXTINF:-1, tvg-id="LIGA TV 4K" tvg-logo="https://laligatvbar.es/meta-image.jpg",LIGA TV 4K
 acestream://608ffde844a8e6f4f7c7fb9783aa3459c818b9f8
+
+#EXTINF:-1, tvg-id="DAZN F1" tvg-logo="https://satcesc.com/wp-content/uploads/2020/01/DAZN-F1.jpg",DAZN F1 4K 
+acestream://c372020ed2744033f56548b6beb11a9f3e740f37
 
 #EXTINF:-1, tvg-id="DAZN 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png",DAZN 4K
 acestream://ad7973215880d12940a75699aa7044839a13a6f1
@@ -37,4 +37,17 @@ acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 acestream://0fdcd632dc776bc44ab2f474a6d079820d80132f
 
 #EXTINF:-1, tvg-id="SPORT TV 1 4k" tvg-logo="https://www.mxgp.com/sites/default/files/news/image/SportTv_Institucional-05.png",SPORT TV 1 4k
+acestream://304f4331286501c5a373a71391b8225900ff7849
+
+#EXTINF:-1, tvg-id="EUROSPORT 1" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Eurosport-Logo-2001.jpg",EUROSPORT 1
+acestream://5d330dc46d4e24a8db88ab9945c0595883bd280e
+
+#EXTINF:-1, tvg-id="EUROSPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eurosport_2_Logo_%282011-2015%29.svg/2560px-Eurosport_2_Logo_%282011-2015%29.svg.png",EUROSPORT 2
+acestream://f2c46015fab59944d1f75487fe1ec725f9d74720
+
+#EXTINF:-1, tvg-id="BEIN SPORTS" tvg-logo="https://yiptv.com/live-tv/wp-content/uploads/2015/11/bein-n-blog.jpg",BEIN SPORTS
+acestream://5da88bd42cd50b54570cd61fbae8749d9d886722
+
+#EXTINF:-1, tvg-id="ESPN 2" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2020/11/espn2tv-e1614714777956.png",ESPN 2
+acestream://5ae9afd963961cd07e8f690e44a6596a2bb4e51e
 
