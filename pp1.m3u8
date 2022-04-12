@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:0,M+LIGA 4K 
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://6904a8e397fe51013aa974f6d1293d8a889836e6
+#EXTINF:0,M+LIGA HD
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
+#EXTINF:0,LIGA TV 4K
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://608ffde844a8e6f4f7c7fb9783aa3459c818b9f8
+#EXTINF:0,DAZN F1 4K 
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://c372020ed2744033f56548b6beb11a9f3e740f37
+#EXTINF:0,DAZN 4K
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://ad7973215880d12940a75699aa7044839a13a6f1
+#EXTINF:0,DAZN 2 4K
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://b402c07f2e8bfe253815e08df0b7e0a6b0fad8e3
+#EXTINF:0,DAZN 2 HD
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://3a8169a6b3db2e515af9b213e8b0a384e91987d7
+#EXTINF:0,M+DEPORTE
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
+#EXTINF:0,M+LIGA CAMPEONES 4K
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76
+#EXTINF:0,M+LIGA CAMPEONES HD
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
+#EXTINF:0,M+LIGACAMPEONES 1 4k
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28
+#EXTINF:0,M+LIGACAMPEONES 1 HD
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
+#EXTINF:0,VAMOS 4K
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
+#EXTINF:0,VAMOS HD
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://0fdcd632dc776bc44ab2f474a6d079820d80132f
+#EXTINF:0,SPORT TV 1 4k
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://304f4331286501c5a373a71391b8225900ff7849
+#EXTINF:0,EUROSPORT 1
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://5d330dc46d4e24a8db88ab9945c0595883bd280e
+#EXTINF:0,EUROSPORT 2
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://f2c46015fab59944d1f75487fe1ec725f9d74720
+#EXTINF:0,BEIN SPORTS
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://5da88bd42cd50b54570cd61fbae8749d9d886722
+#EXTINF:0,ESPN 2
+acestream://5ae9afd963961cd07e8f690e44a6596a2bb4e51e
