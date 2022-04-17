@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="M+LIGA 4K" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg",M+LIGA 4K 
-acestream://6904a8e397fe51013aa974f6d1293d8a889836e6
+
+#EXTINF:-1, tvg-id="M+LIGA 4K" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg",M+LIGA 4K
+acestream://14a9434bf42937fba813152f4acef2b1a0d3f799
 
 #EXTINF:-1, tvg-id="M+LIGA SD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg",M+LIGA HD
 acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
@@ -56,5 +57,6 @@ acestream://5da88bd42cd50b54570cd61fbae8749d9d886722
 
 #EXTINF:-1, tvg-id="ESPN 2" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2020/11/espn2tv-e1614714777956.png",ESPN 2
 acestream://5ae9afd963961cd07e8f690e44a6596a2bb4e51e
+
 
 
