@@ -34,6 +34,9 @@ acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
 #EXTINF:-1, tvg-id="M+LIGA CAMPEONES 4K" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-liga-campeones.jpg",M+LIGA CAMPEONES 4K
 acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76
 
+#EXTINF:-1, tvg-id="M+LIGA CAMPEONES 4K Opcion2" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-liga-campeones.jpg",M+LIGA CAMPEONES 4K Opcion2
+acestream://f146e252ab9f9a90e6fe0257fe4932643aa7384a
+
 #EXTINF:-1, tvg-id="M+LIGACAMPEONES HD" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-liga-campeones.jpg",M+LIGA CAMPEONES HD
 acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
 
