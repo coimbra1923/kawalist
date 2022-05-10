@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="Black Box" tvg-logo="https://image.tmdb.org/t/p/w500/2vevnnoAFbAYWSXxGShUys0dzFO.jpg",Black Box
+#EXTINF:-1, tvg-id="Black Box" tvg-logo="https://image.tmdb.org/t/p/w500/2vevnnoAFbAYWSXxGShUys0dzFO.jpg" group-title="Peliculas" ,Black Box
 acestream://892ef7c2c0deb109efdd8728fc67d1da83a2d632
 
 #EXTINF:-1, tvg-id="La protegida" tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/18/14/08/2217820.jpg",La protegida
@@ -20,4 +20,3 @@ acestream://2ecdbfe8f34d6ff4a78c83afe9ef0ec221459f4f
 
 #EXTINF:-1, tvg-id="Canta 2" tvg-logo="https://pics.filmaffinity.com/A_Canta_2-221559997-large.jpg",Canta 2
 acestream://031e4baab49898ba7fd84a235c262de977291401
-
